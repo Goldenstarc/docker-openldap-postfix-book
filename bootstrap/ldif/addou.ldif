@@ -3,3 +3,4 @@ changetype: add
 objectClass: organizationalUnit
 objectClass: top
 ou: people
+# ldapadd -W -D "cn=admin,dc=legace,dc=ir" -f addou.ldif -h ldap.legace.ir
