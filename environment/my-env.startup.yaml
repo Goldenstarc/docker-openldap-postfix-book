@@ -11,6 +11,7 @@ LDAP_ORGANISATION: Legace Inc.
 LDAP_DOMAIN: legace.ir
 LDAP_ADMIN_PASSWORD: OpenLDAPpass.24
 LDAP_CONFIG_PASSWORD: c0nfig
+# LDAP_CONFIG_DN: "cn=admin,cn=config"
 # LDAP_BASE_DN: "cn=admin,dc=legace,dc=ir"
 
 LDAP_READONLY_USER: true
